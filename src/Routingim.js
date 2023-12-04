@@ -16,15 +16,11 @@ export function Routingim() {
 
 <BrowserRouter>
 <nav>
-<Link to="/logIn">LogOut</Link>
-<br/>
-<Link to="/">Home</Link>
-<br/>
-<Link to="/posts">Posts</Link>
-<br/>
-<Link to="/albums">Albums</Link>
-<br/>
-<Link to="/todos">Todos</Link>
+<Link to="/logIn">יציאה</Link>
+<Link to="/">דף הבית</Link>
+<Link to="/posts">הודאות</Link>
+<Link to="/albums">אלבום</Link>
+<Link to="/todos">מטלות</Link>
 
 </nav>
 <Routes>
